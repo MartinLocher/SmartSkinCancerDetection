@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.github.yalantis:ucrop:2.2.2] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/b061407a173260156ba3162fccc2a33e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7e9785ff87736c6329e344087b48dba7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5e0463a09db8fc0092e066d597129a61/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/1ec161b7367bbf6fc0ee0c325ece5361/AndroidManifest.xml:2:1-11:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:1.2.5] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/a45e79dcdbc434c513a36dd1c925d050/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/9b9c173ef4f0935c8199f9d445952351/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/ae35f1c3b4a9890caddd3673a2fde4c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/fbe8dd5c8c3983a89465c016d4320f89/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/92ab458c6ee2180a8d6be35b1663f058/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/3ebfd1ef31e2a2932f08cf3bef44da51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/daabe25f01f63e096508ff0208fc16bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5db9799ba34081b6050a600d42a7e645/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/145eae11534f89ea41260912dbb02ba7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/8bbb6cf3998788b445b5e5184282ce2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/c43be3ba91487913866e407fc8abb5dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7b1363e91d56148c2acc2774cdc995a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/c9a9f302e291f45378d28fb0b6cbf14b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7f624229ddddc6881d179ae38eb5b3aa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/95306077364184a5769ab734ec90f326/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/71407d9d8c24b11976890b61c281e8f2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/bd01c1ecc4a632b4aa792f850506a875/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/dd874e24653c34e7a7f55dd871e75ae8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/bb0fcaedd4599c337c2b7ec8ff14353f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/d884af013999a6587cb3cfcd59f6ead3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/6afd1f948996a814567f4fd2295be9ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/63397b5bcfe4e826018a1941652691c0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/64d01c6c6af7d02c63c8968b7daad907/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/cf7d1f7aa040be1520380947eae4229c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5ad4275237f41b19979dc753a3bfd721/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/9d03eab3dad16755ca567a2fada60fb8/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:4:5-81
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:5:22-62
+application
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:7:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5e0463a09db8fc0092e066d597129a61/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5e0463a09db8fc0092e066d597129a61/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/1ec161b7367bbf6fc0ee0c325ece5361/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/1ec161b7367bbf6fc0ee0c325ece5361/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/95306077364184a5769ab734ec90f326/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/95306077364184a5769ab734ec90f326/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/71407d9d8c24b11976890b61c281e8f2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/71407d9d8c24b11976890b61c281e8f2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/95306077364184a5769ab734ec90f326/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.martinlocher.smartskin.MainActivity
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.martinlocher.smartskin.CropImageActivity
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:21:9-23:51
+	android:label
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:23:13-39
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:22:13-46
+activity#com.martinlocher.smartskin.ImagePickerActivity
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:25:9-27:51
+	android:label
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:27:13-39
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:26:13-48
+activity#com.martinlocher.smartskin.ImageHistory
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:29:9-31:64
+	android:label
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:31:13-52
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:30:13-41
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:33:9-41:20
+	android:grantUriPermissions
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:37:13-47
+	android:authorities
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:35:13-67
+	android:exported
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:34:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:38:13-40:64
+	android:resource
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:40:17-51
+	android:name
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml:39:17-67
+uses-sdk
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+MERGED from [com.github.yalantis:ucrop:2.2.2] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/b061407a173260156ba3162fccc2a33e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/b061407a173260156ba3162fccc2a33e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7e9785ff87736c6329e344087b48dba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7e9785ff87736c6329e344087b48dba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5e0463a09db8fc0092e066d597129a61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5e0463a09db8fc0092e066d597129a61/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/1ec161b7367bbf6fc0ee0c325ece5361/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/1ec161b7367bbf6fc0ee0c325ece5361/AndroidManifest.xml:5:5-7:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:1.2.5] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/a45e79dcdbc434c513a36dd1c925d050/AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:1.2.5] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/a45e79dcdbc434c513a36dd1c925d050/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/9b9c173ef4f0935c8199f9d445952351/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/9b9c173ef4f0935c8199f9d445952351/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/ae35f1c3b4a9890caddd3673a2fde4c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/ae35f1c3b4a9890caddd3673a2fde4c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/fbe8dd5c8c3983a89465c016d4320f89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/fbe8dd5c8c3983a89465c016d4320f89/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/92ab458c6ee2180a8d6be35b1663f058/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/92ab458c6ee2180a8d6be35b1663f058/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/3ebfd1ef31e2a2932f08cf3bef44da51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/3ebfd1ef31e2a2932f08cf3bef44da51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/daabe25f01f63e096508ff0208fc16bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/daabe25f01f63e096508ff0208fc16bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5db9799ba34081b6050a600d42a7e645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5db9799ba34081b6050a600d42a7e645/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/145eae11534f89ea41260912dbb02ba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/145eae11534f89ea41260912dbb02ba7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/8bbb6cf3998788b445b5e5184282ce2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/8bbb6cf3998788b445b5e5184282ce2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/c43be3ba91487913866e407fc8abb5dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/c43be3ba91487913866e407fc8abb5dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7b1363e91d56148c2acc2774cdc995a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7b1363e91d56148c2acc2774cdc995a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/c9a9f302e291f45378d28fb0b6cbf14b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/c9a9f302e291f45378d28fb0b6cbf14b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7f624229ddddc6881d179ae38eb5b3aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/7f624229ddddc6881d179ae38eb5b3aa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/95306077364184a5769ab734ec90f326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/95306077364184a5769ab734ec90f326/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/71407d9d8c24b11976890b61c281e8f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/71407d9d8c24b11976890b61c281e8f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/bd01c1ecc4a632b4aa792f850506a875/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/bd01c1ecc4a632b4aa792f850506a875/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/dd874e24653c34e7a7f55dd871e75ae8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/dd874e24653c34e7a7f55dd871e75ae8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/bb0fcaedd4599c337c2b7ec8ff14353f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/bb0fcaedd4599c337c2b7ec8ff14353f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/d884af013999a6587cb3cfcd59f6ead3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/d884af013999a6587cb3cfcd59f6ead3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/6afd1f948996a814567f4fd2295be9ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/6afd1f948996a814567f4fd2295be9ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/63397b5bcfe4e826018a1941652691c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/63397b5bcfe4e826018a1941652691c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/64d01c6c6af7d02c63c8968b7daad907/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/64d01c6c6af7d02c63c8968b7daad907/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/cf7d1f7aa040be1520380947eae4229c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/cf7d1f7aa040be1520380947eae4229c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5ad4275237f41b19979dc753a3bfd721/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/5ad4275237f41b19979dc753a3bfd721/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/9d03eab3dad16755ca567a2fada60fb8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/martinlocher/.gradle/caches/transforms-2/files-2.1/9d03eab3dad16755ca567a2fada60fb8/AndroidManifest.xml:20:5-44
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+		ADDED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/martinlocher/SmartView/SmartSkinNext/app/src/main/AndroidManifest.xml
